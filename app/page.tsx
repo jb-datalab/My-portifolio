@@ -527,7 +527,7 @@ export default function Home() {
       <footer className="border-t border-white/10 px-6 py-8">
         <div className="mx-auto flex max-w-7xl flex-col items-center justify-between gap-5 text-sm text-gray-500 md:flex-row">
           <p>
-            © {new Date().getFullYear()} Joseph. All rights reserved.
+            © 2026 Joseph. All rights reserved.
           </p>
 
           <p>
